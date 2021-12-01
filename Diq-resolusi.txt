@@ -1,0 +1,4 @@
+Wpu resolusi
+-membuat website 
+- membuat platform untuk pengelola file
+- membuat modul magisk
